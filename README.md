@@ -1,1 +1,1 @@
-# TheAntsMind-
+**TheAntsMind** es un proyecto creado y mantenido por la organización [TheAntsMind](https://github.com/TheAntsMind), bajo la dirección de [HormigasAIS-ux](https://github.com/HormigasAIS-ux), como parte del ecosistema de innovación digital y automatización de IA.
